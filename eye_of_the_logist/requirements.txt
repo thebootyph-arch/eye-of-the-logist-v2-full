@@ -1,0 +1,20 @@
+# Core
+streamlit>=1.35.0
+fastapi>=0.111.0
+uvicorn>=0.30.0
+
+# AI
+google-cloud-aiplatform>=1.57.0
+requests>=2.31.0
+
+# Document parsing
+pypdf>=4.2.0
+
+# Data
+pydantic>=2.7.0
+
+# Reports
+reportlab>=4.2.0
+
+# Optional: better fuzzy matching (replace built-in)
+# rapidfuzz>=3.9.0
