@@ -1,6 +1,6 @@
 """
 Eye of the Logist — Streamlit UI v2
-Полный пайплайн: Upload → Classify → Parse → Normalize → Audit → Report
+Full pipeline: Upload → Classify → Parse → Normalize → Audit → Report
 """
 import asyncio
 import logging
